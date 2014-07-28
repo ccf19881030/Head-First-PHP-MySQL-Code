@@ -10,7 +10,7 @@ ccf19881030@126.com
 28/7/2014
 
 ### DownLoad
-- HeadFirst Labs : [http://www.headfirstlabs.com/](http://www.headfirstlabs.com/)
+- HeadFirst Labs  : [http://www.headfirstlabs.com/books/hfphp/](http://www.headfirstlabs.com/books/hfphp/)
 
 - HeadFirst系列书籍下载地址：[华为网盘下载](http://dl.dbank.com/c0luaykzj4)
 
