@@ -12,7 +12,8 @@ ccf19881030@126.com
 ### DownLoad
 - HeadFirst Labs  : [http://www.headfirstlabs.com/books/hfphp/](http://www.headfirstlabs.com/books/hfphp/)
 
-- HeadFirst系列书籍下载地址：[华为网盘下载](http://dl.dbank.com/c0luaykzj4)
+- Head First PHP & MySQL(中文版)下载地址：[百度网盘下载](https://pan.baidu.com/s/1gCFbsm1DF8B2gupsZETHJA)
+提取码: pbrq
 
 
 
