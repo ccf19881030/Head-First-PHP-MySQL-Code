@@ -45,7 +45,7 @@
       mysqli_close($dbc);
 
       // Confirm success with the user
-      echo '<p>The high score of ' . $score . ' for ' . $name . ' was successfully removed.';
+      echo '<p>The high score of ' . $score . ' for ' . $name . ' was successfully removed.</p>';
     }
     else {
       echo '<p class="error">The high score was not removed.</p>';
