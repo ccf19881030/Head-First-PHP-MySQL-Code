@@ -18,7 +18,7 @@ ccf19881030@126.com
 
 ### [Head First PHP MySQL Example Source Code](https://resources.oreilly.com/examples/9780596006303/#)
 
-use git clone to download the source from the offical:
+use `git clone` command to download the source from the offical:
 ```shell
 git clone https://resources.oreilly.com/examples/9780596006303.git Head_First_PHP_MySQL
 ```
